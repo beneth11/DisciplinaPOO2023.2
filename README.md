@@ -3,6 +3,7 @@ Questões | Enunciado
 :---------: | :------:
 01 | Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
 02 | Faça um programa que receba três notas, calcule e mostre a média aritmética.
+03 | Faça um programa que receba três notas e seus respectivos pesos, calcule e mostre a média ponderada.
 05 | Faça um programa que receba o salário de um funcionário e o percentual de aumento, calcule e mostre o valor do aumento e o novo salário.
 08 | Faça um programa que receba o valor de um depósito e o valor da taxa de juros, calcule e mostre o valor do rendimento e o valor total depois do rendimento.
 14 | Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual, calcule e mostre:. a) a idade dessa pessoa; b) quantos anos ela terá em 2050.
