@@ -1,4 +1,4 @@
-# DisciplinaPOO2023.1_T1
+# DisciplinaPOO2023.2_T1
 Questões | Enunciado
 :---------: | :------:
 02 | Faça um programa que receba três notas, calcule e mostre a média aritmética.
