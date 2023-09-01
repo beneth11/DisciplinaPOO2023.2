@@ -1,4 +1,4 @@
-# DisciplinaPOO2023.2_T1
+# DisciplinaPOO2023.2
 Questões | Enunciado
 :---------: | :------:
 01 | Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.
