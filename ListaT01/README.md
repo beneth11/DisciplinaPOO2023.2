@@ -8,8 +8,8 @@ Neste diretório, você encontrará um conjunto de atividades para praticar suas
 
 ### Questões Resolvidas
 
-Este diretório contém 25 questões resolvidas, cada uma organizada em pacotes Java dentro da pasta `Questões Resolvidas`. 
+Este diretório contém 25 questões resolvidas, cada uma organizada em pacotes Java dentro da pasta `Resolvidas cap03`. 
 
 ### Questões Propostas
 
-Além das questões resolvidas, temos 10 questões propostas para você praticar suas habilidades. Essas questões estão localizadas na pasta `Questões Propostas`
+Além das questões resolvidas, temos 10 questões propostas para você praticar suas habilidades. Essas questões estão localizadas na pasta `Propostas cap03`
