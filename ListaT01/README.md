@@ -49,13 +49,11 @@ a) a idade dessa pessoa;
 b) quantos anos ela terá em 2050.|
 |Q15R|
 |O custo ao consumidor de um carro novo é a soma do preço de fábrica com o percentual de lucro do
-
 distribuidor e dos impostos aplicados ao preço de fábrica. Faça um programa que receba o preço de fá-
 brica de um veículo, o percentual de lucro do distribuidor e o percentual de impostos, calcule e mostre:
-
 a) o valor correspondente ao lucro do distribuidor;
 b) o valor correspondente aos impostos;
-c) o preço final do veículo.
+c) o preço final do veículo.|
 |Q16R|
 |Faça um programa que receba o número de horas trabalhadas e o valor do salário mínimo, calcule e
 mostre o salário a receber, seguindo estas regras:
