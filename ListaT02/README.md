@@ -1,4 +1,4 @@
-### **Lista 02**
+### **Lista 2**
 ### **Capítulo 4: Estrutura Condicional**
 ### **Capítulo 5: Estrutura de Repetição**
 
