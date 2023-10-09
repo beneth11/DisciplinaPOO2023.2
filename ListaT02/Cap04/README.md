@@ -1,7 +1,7 @@
 | Resolvidos |
 |------------|
 |Q01R|
-|Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.|
+|A nota final de um estudante é calculada a partir de três notas atribuídas, respectivamente, a um trabalho de laboratório, a uma avaliação semestral e a um exame final. A média das três notas mencionadas obedece aos pesos a seguir:|
 |Q02R|
 |Faça um programa que receba três notas, calcule e mostre a média aritmética.|
 |Q03R|
