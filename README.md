@@ -4,8 +4,8 @@
 ### Feito por
 - Benete Zabdiel e Ana Lívia.
 
-### Turma:
-- P3 de informatica
-
 ### Professor:
 - Roger Sarmento
+
+### Turma:
+- P.3. de informatica
