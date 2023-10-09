@@ -1,4 +1,4 @@
-# Disciplina Poo 2023.2
+# Disciplina POO (Programação Orientada à Objetos) 2023.2
 ## Repositorio das listas de exercícios do P3 de 2023.2
 
 ### Feito por
