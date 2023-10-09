@@ -105,9 +105,7 @@ pelo menos, o custo do espetáculo seja alcançado.|
 |Faça um programa que receba o preço de um produto, calcule e mostre o novo preço, sabendo-se
 que este sofreu um desconto de 10%.|
 |Q06R|
-|Um funcionário recebe um salário fixo mais 4% de comissão sobre as vendas. Faça um programa
-que receba o salário fixo do funcionário e o valor de suas vendas, calcule e mostre a comissão e seu
-salário final.|
+|Um funcionário recebe um salário fixo mais 4% de comissão sobre as vendas. Faça um programa que receba o salário fixo do funcionário e o valor de suas vendas, calcule e mostre a comissão e seu salário final.|
 |Q07R|
 |Faça um programa que receba o peso de uma pessoa, calcule e mostre:
 a) o novo peso, se a pessoa engordar 15% sobre o peso digitado;
