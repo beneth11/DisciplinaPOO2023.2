@@ -1,4 +1,4 @@
-### **Lista 01**
+### **Lista 1**
 ### **Capítulo 3: Estrutura Sequencial**
 
 
