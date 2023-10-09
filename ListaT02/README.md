@@ -1,6 +1,6 @@
-###Lista 02
-###Capítulo 4: Estrutura Condicional
-###Capítulo 5: Estrutura de Repetição
+### **Lista 02**
+### **Capítulo 4: Estrutura Condicional**
+### **Capítulo 5: Estrutura de Repetição**
 
 ### Bem-vindo à **Lista 02** de programação em Java focada em estruturas condicionais e de repetição.
 
