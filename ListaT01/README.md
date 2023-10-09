@@ -1,6 +1,6 @@
 | Resolvidos |
 |------------|
-| Q01R: |
+|Q01R|
 |Faça um programa que receba quatro números inteiros, calcule e mostre a soma desses números.|
 |Q02R|
 |Faça um programa que receba três notas, calcule e mostre a média aritmética.|
@@ -113,6 +113,7 @@ mostre a hora digitada apenas em minutos. Lembre-se de que:
 Esse programa deverá calcular e mostrar a quantidade de convites que devem ser vendidos para que,
 pelo menos, o custo do espetáculo seja alcançado.|
 | Propostas |
+|------------|
 |Q05R|
 |Faça um programa que receba o preço de um produto, calcule e mostre o novo preço, sabendo-se
 que este sofreu um desconto de 10%.|
