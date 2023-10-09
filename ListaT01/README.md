@@ -55,7 +55,7 @@ brica de um veículo, o percentual de lucro do distribuidor e o percentual de im
 
 a) o valor correspondente ao lucro do distribuidor;
 b) o valor correspondente aos impostos;
-c) o preço final do veículo.|
+c) o preço final do veículo.
 |Q16R|
 |Faça um programa que receba o número de horas trabalhadas e o valor do salário mínimo, calcule e
 mostre o salário a receber, seguindo estas regras:
