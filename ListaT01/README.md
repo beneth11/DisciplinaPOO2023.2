@@ -77,12 +77,8 @@ atingir seu objetivo, sem se preocupar com a altura do usuário. Todas as medida
 estar em metros.|
 |Q20R|
 |Faça um programa que receba a medida do ângulo (em graus) formado por uma escada apoiada no
-
 chão e encostada na parede e a altura da parede onde está a ponta da escada. Calcule e mostre a me-
-dida dessa escada.
-
-Observação: as funções trigonométricas implementadas nas linguagens de programação trabalham
-com medidas de ângulos em radianos.|
+dida dessa escada. Observação: as funções trigonométricas implementadas nas linguagens de programação trabalham com medidas de ângulos em radianos.|
 |Q21R|
 |Uma pessoa deseja pregar um quadro em uma parede. Faça um programa para calcular e mostrar a
 que distância a escada deve estar da parede. A pessoa deve fornecer o tamanho da escada e a altura em
